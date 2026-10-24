@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#0f172a"/>
+  <circle cx="1020" cy="140" r="240" fill="#1e293b"/>
+  <circle cx="140" cy="790" r="200" fill="#1e293b"/>
+  <text x="600" y="420" font-family="Arial, sans-serif" font-size="76" font-weight="bold" fill="#22d3ee" text-anchor="middle">Flutter Labs</text>
+  <text x="600" y="495" font-family="Arial, sans-serif" font-size="38" fill="#94a3b8" text-anchor="middle">Open-Source Packages · Plugins · Games</text>
+</svg>
